@@ -1,0 +1,1 @@
+{"verbose": true, "gan_type": "SNGAN_AnimeFaces", "shift_in_w_space": false, "z_truncation": null, "biggan_target_classes": null, "stylegan2_resolution": 1024, "num_samples": 20, "pool": null, "cuda": true}
